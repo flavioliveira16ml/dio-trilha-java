@@ -1,3 +1,4 @@
+package estudos;
 public class Ternario {
     public static void main(String[] args) {
         int a, b;

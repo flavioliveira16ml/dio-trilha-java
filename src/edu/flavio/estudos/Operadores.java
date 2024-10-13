@@ -1,3 +1,4 @@
+package estudos;
 
 public class Operadores{
     

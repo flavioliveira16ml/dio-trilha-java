@@ -1,3 +1,4 @@
+package estudos;
 public class Logicos {
     public static void main(String[] args) {
         boolean condicao1 = true;

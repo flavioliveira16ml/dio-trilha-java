@@ -1,3 +1,4 @@
+package estudos;
 public class Concatenacao {
     public static void main(String[] args) {
         String concatenacao = "?";
